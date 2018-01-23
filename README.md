@@ -1,4 +1,4 @@
-# Java_SampleCode8
+# JavaSampleCode8
 HTML形式の出力
 
 #### 処理
